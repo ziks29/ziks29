@@ -1,13 +1,12 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1f2e&height=120&section=header&animation=fadeIn" width="100%"/>
 
 # ziks29
-
 **Fullstack Developer · TON Blockchain · Kassel, Germany**
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/m/0v199G8VNDc0)
 [![Tebex](https://img.shields.io/badge/FiveM%20Scripts-Tebex%20Store-FF6B35?style=flat-square&logo=shopify&logoColor=white)](https://ziks-store.tebex.io/)
+
 </div>
 
 ---
@@ -23,7 +22,6 @@ I build full-stack web applications, Telegram Mini Apps, and on-chain products o
 [![Skills](https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,postgres,supabase,python,docker,lua)](https://skillicons.dev)
 
 </div>
-
 <br/>
 
 | Domain | Technologies |
@@ -40,11 +38,8 @@ I build full-stack web applications, Telegram Mini Apps, and on-chain products o
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ziks29&theme=tokyonight&no-frame=true&row=1&column=6)
 
-<br/>
-
-![Streak](https://streak-stats.demolab.com?user=ziks29&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.vercel.app/demo/preview.php?user=ziks29&theme=tokyonight)
 
 <br/>
 
